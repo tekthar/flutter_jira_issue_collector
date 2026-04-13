@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.10-02569B.svg)](https://flutter.dev)
 [![pub.dev](https://img.shields.io/pub/v/flutter_jira_issue_collector.svg)](https://pub.dev/packages/flutter_jira_issue_collector)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Tekthar-EA4AAA.svg?logo=github-sponsors)](https://github.com/sponsors/tekthar)
 
 Jira Issue Collector for Flutter -- fetch collector fields dynamically, show customizable forms, or submit issues programmatically in the background. Includes a **code generator** that produces type-safe Dart helpers from your collector's live fields.
 

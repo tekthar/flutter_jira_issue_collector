@@ -13,6 +13,9 @@ topics:
   - issue-tracking
   - feedback
 
+funding:
+  - https://github.com/sponsors/tekthar
+
 environment:
   sdk: ^3.0.0
   flutter: '>=3.10.0'

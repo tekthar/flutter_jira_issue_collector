@@ -4,8 +4,8 @@ description: >-
   show customizable forms, or submit issues programmatically in the background.
 version: 0.2.0
 homepage: https://tekthar.com
-repository: https://github.com/nicexe/flutter_jira_issue_collector
-issue_tracker: https://github.com/nicexe/flutter_jira_issue_collector/issues
+repository: https://github.com/tekthar/flutter_jira_issue_collector
+issue_tracker: https://github.com/tekthar/flutter_jira_issue_collector/issues
 
 topics:
   - jira
